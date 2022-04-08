@@ -1,7 +1,7 @@
 # smallp8
 The Sprite Mounted Assembly-Like Language for Pico-8
 
-Small is a table of about 600 tokens(there might be some optimizations) that can be used on it's own to read and process bytes directly from the spritesheet or any other place in memory 
+SMALL is a table of about 618 tokens(there might be some optimizations) that can be used on it's own to read and process bytes directly from the spritesheet or any other place in memory 
 
 It works with a table(a[0->3]) of 4 registers W,A,B and C and a stack(b[1->]) and a set of instructions, returning both of them when the function ends
 
